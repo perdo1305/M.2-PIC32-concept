@@ -1,0 +1,151 @@
+Removed Pin From Net: NetName=RA10 Pin=FP1-4
+Removed Pin From Net: NetName=RB13 Pin=FP1-6
+Removed Pin From Net: NetName=RA7 Pin=FP1-7
+Removed Pin From Net: NetName=RB14 Pin=FP1-9
+Removed Pin From Net: NetName=RB12 Pin=FP1-10
+Removed Pin From Net: NetName=RB11 Pin=FP1-22
+Removed Pin From Net: NetName=RB15 Pin=FP1-23
+Removed Pin From Net: NetName=GND Pin=FP1-24
+Removed Pin From Net: NetName=RG6 Pin=FP1-25
+Removed Pin From Net: NetName=RB10 Pin=FP1-26
+Removed Pin From Net: NetName=RF1 Pin=FP1-28
+Removed Pin From Net: NetName=RG7 Pin=FP1-29
+Removed Pin From Net: NetName=GND Pin=FP1-30
+Removed Pin From Net: NetName=RG8 Pin=FP1-31
+Removed Pin From Net: NetName=RF0 Pin=FP1-32
+Removed Pin From Net: NetName=RC9 Pin=FP1-34
+Removed Pin From Net: NetName=GND Pin=FP1-36
+Removed Pin From Net: NetName=RA12 Pin=FP1-37
+Removed Pin From Net: NetName=RD6 Pin=FP1-38
+Removed Pin From Net: NetName=RD5 Pin=FP1-40
+Removed Pin From Net: NetName=RA11 Pin=FP1-41
+Removed Pin From Net: NetName=GND Pin=FP1-42
+Removed Pin From Net: NetName=RA0 Pin=FP1-43
+Removed Pin From Net: NetName=RC8 Pin=FP1-44
+Removed Pin From Net: NetName=RC7 Pin=FP1-46
+Removed Pin From Net: NetName=RA1 Pin=FP1-47
+Removed Pin From Net: NetName=GND Pin=FP1-48
+Removed Pin From Net: NetName=RB0 Pin=FP1-49
+Removed Pin From Net: NetName=RC6 Pin=FP1-50
+Removed Pin From Net: NetName=RB9 Pin=FP1-52
+Removed Pin From Net: NetName=RB1 Pin=FP1-53
+Removed Pin From Net: NetName=GND Pin=FP1-54
+Removed Pin From Net: NetName=RC2 Pin=FP1-55
+Removed Pin From Net: NetName=RC13 Pin=FP1-58
+Removed Pin From Net: NetName=RC11 Pin=FP1-59
+Removed Pin From Net: NetName=GND Pin=FP1-60
+Removed Pin From Net: NetName=RE12 Pin=FP1-61
+Removed Pin From Net: NetName=RB7 Pin=FP1-62
+Removed Pin From Net: NetName=RC10 Pin=FP1-64
+Removed Pin From Net: NetName=RE13 Pin=FP1-65
+Removed Pin From Net: NetName=GND Pin=FP1-66
+Removed Pin From Net: NetName=RE14 Pin=FP1-67
+Removed Pin From Net: NetName=RB6 Pin=FP1-68
+Removed Pin From Net: NetName=RB5 Pin=FP1-70
+Removed Pin From Net: NetName=RE15 Pin=FP1-71
+Removed Pin From Net: NetName=GND Pin=FP1-72
+Removed Pin From Net: NetName=RA8 Pin=FP1-73
+Removed Pin From Net: NetName=RD8 Pin=FP1-74
+Removed Pin From Net: NetName=RB4 Pin=FP1-75
+Added Component: Designator=D1(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP65P640X120-14N
+Added Component: Designator=IC3(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MIC5239-3.3YS-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5239-3.3ys-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/mic5239.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5239-3.3YS-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5239-3.3YSTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5239-33YS-TR?qs=U6T8BxXiZAXN0UitWWB92A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0805)
+Add Component: Footprint Not Found SW_1437566-4
+Add Component: Footprint Not Found SW_1437566-4
+Added Pin To Net: NetName=GND Pin=D1-C
+Added Pin To Net: NetName=RC2 Pin=FP1-4
+Added Pin To Net: NetName=RC11 Pin=FP1-6
+Added Pin To Net: NetName=RB1 Pin=FP1-7
+Added Pin To Net: NetName=RB0 Pin=FP1-9
+Added Pin To Net: NetName=RE12 Pin=FP1-10
+Added Pin To Net: NetName=RE13 Pin=FP1-22
+Added Pin To Net: NetName=RA1 Pin=FP1-23
+Added Pin To Net: NetName=RE14 Pin=FP1-24
+Added Pin To Net: NetName=RA0 Pin=FP1-25
+Added Pin To Net: NetName=GND Pin=FP1-26
+Added Pin To Net: NetName=RE15 Pin=FP1-28
+Added Pin To Net: NetName=RA11 Pin=FP1-29
+Added Pin To Net: NetName=RA8 Pin=FP1-30
+Added Pin To Net: NetName=RA12 Pin=FP1-31
+Added Pin To Net: NetName=GND Pin=FP1-32
+Added Pin To Net: NetName=RB4 Pin=FP1-34
+Added Pin To Net: NetName=RC13 Pin=FP1-36
+Added Pin To Net: NetName=RG8 Pin=FP1-37
+Added Pin To Net: NetName=GND Pin=FP1-38
+Added Pin To Net: NetName=RB7 Pin=FP1-40
+Added Pin To Net: NetName=RG7 Pin=FP1-41
+Added Pin To Net: NetName=RC10 Pin=FP1-42
+Added Pin To Net: NetName=RG6 Pin=FP1-43
+Added Pin To Net: NetName=GND Pin=FP1-44
+Added Pin To Net: NetName=RB6 Pin=FP1-46
+Added Pin To Net: NetName=RB15 Pin=FP1-47
+Added Pin To Net: NetName=RB5 Pin=FP1-48
+Added Pin To Net: NetName=RB14 Pin=FP1-49
+Added Pin To Net: NetName=GND Pin=FP1-50
+Added Pin To Net: NetName=RD8 Pin=FP1-52
+Added Pin To Net: NetName=RA7 Pin=FP1-53
+Added Pin To Net: NetName=RC9 Pin=FP1-54
+Added Pin To Net: NetName=RA10 Pin=FP1-55
+Added Pin To Net: NetName=GND Pin=FP1-56
+Added Pin To Net: NetName=RD6 Pin=FP1-58
+Added Pin To Net: NetName=RB13 Pin=FP1-59
+Added Pin To Net: NetName=RD5 Pin=FP1-60
+Added Pin To Net: NetName=RB12 Pin=FP1-61
+Added Pin To Net: NetName=GND Pin=FP1-62
+Added Pin To Net: NetName=RC8 Pin=FP1-64
+Added Pin To Net: NetName=RB11 Pin=FP1-65
+Added Pin To Net: NetName=RC7 Pin=FP1-66
+Added Pin To Net: NetName=RB10 Pin=FP1-67
+Added Pin To Net: NetName=GND Pin=FP1-68
+Added Pin To Net: NetName=RC6 Pin=FP1-70
+Added Pin To Net: NetName=RF0 Pin=FP1-71
+Added Pin To Net: NetName=RB9 Pin=FP1-72
+Added Pin To Net: NetName=RF1 Pin=FP1-73
+Added Pin To Net: NetName=GND Pin=FP1-74
+Added Pin To Net: NetName=GND Pin=FP1-75
+Add Pin To Net: Unknown Pin: Pin IC2-1
+Add Pin To Net: Unknown Pin: Pin IC2-4
+Add Pin To Net: Unknown Pin: Pin IC2-5
+Add Pin To Net: Unknown Pin: Pin IC2-6
+Add Pin To Net: Unknown Pin: Pin IC2-11
+Add Pin To Net: Unknown Pin: Pin IC2-12
+Add Pin To Net: Unknown Pin: Pin IC2-13
+Add Pin To Net: Unknown Pin: Pin IC2-14
+Added Pin To Net: NetName=+5V Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=+3v3 Pin=IC3-3
+Added Pin To Net: NetName=GND Pin=IC3-4
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R8-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetIC1_48 Pin=IC1-48
+Added Pin To Net: NetName=NetIC1_48 Pin=R8-2
+Added Net: Name=NetIC1_48
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SML-LXT0805IW-TR
+Add Class Member: Failed to add class member : Component IC2 MCP2221A-I_ST
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 MIC5239-3.3YS-TR
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1k
+Add Class Member: Failed to add class member : Component S1 1437566-4
+Add Class Member: Failed to add class member : Component S2 1437566-4

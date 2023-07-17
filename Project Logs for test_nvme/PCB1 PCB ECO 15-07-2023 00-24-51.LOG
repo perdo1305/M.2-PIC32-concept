@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetIC2_4 Pin=R1-1
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Removed Pin From Net: NetName=NetC6_2 Pin=R2-1
+Removed Pin From Net: NetName=+3v3 Pin=R2-2
+Removed Pin From Net: NetName=MCLR Pin=R4-2
+Removed Pin From Net: NetName=PGEC1 Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=PGED1 Pin=R7-2
+Removed Pin From Net: NetName=NetD1_A Pin=R8-1
+Removed Pin From Net: NetName=NetIC1_48 Pin=R8-2
+Change Component Footprint: Designator=R1 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R2 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R4 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R6 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R7 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R8 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Comment : Designator=R4 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R8 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R6 Old Comment=10k New Comment=1k
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=NetIC2_4 Pin=R1-2
+Added Pin To Net: NetName=NetIC1_48 Pin=R2-1
+Added Pin To Net: NetName=NetD1_A Pin=R2-2
+Added Pin To Net: NetName=+3v3 Pin=R4-2
+Added Pin To Net: NetName=NetC6_2 Pin=R6-1
+Added Pin To Net: NetName=MCLR Pin=R6-2
+Added Pin To Net: NetName=PGEC1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=PGED1 Pin=R8-2

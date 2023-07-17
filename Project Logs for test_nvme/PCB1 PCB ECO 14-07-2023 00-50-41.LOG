@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=+VBUS Pin=JP3-2
+Removed Member From Class: ClassName=Sheet1 Member=JP3
+Added Component: Designator=C13(CAP_0805)
+Added Component: Designator=IC2(SOP65P640X120-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2221A-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2221a-ist/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/20005565b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2221A-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2221A-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP2221A-I-ST?qs=ZEMkBHnybREMkqMgzOrcGQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(814375651)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/8-1437565-1/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=8-1437565-0&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "506-8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/8-1437565-1?qs=%2FwXgF%2FfIho85SUhcdHoonw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(814375651)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/8-1437565-1/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=8-1437565-0&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "506-8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/8-1437565-1?qs=%2FwXgF%2FfIho85SUhcdHoonw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3v3 Pin=C13-2
+Added Pin To Net: NetName=+5V Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_4 Pin=IC2-4
+Added Pin To Net: NetName=uart-TX Pin=IC2-5
+Added Pin To Net: NetName=uart-RX Pin=IC2-6
+Added Pin To Net: NetName=NetC5_2 Pin=IC2-11
+Added Pin To Net: NetName=D2_N Pin=IC2-12
+Added Pin To Net: NetName=D2_P Pin=IC2-13
+Added Pin To Net: NetName=GND Pin=IC2-14
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetC6_2 Pin=J3-3
+Added Pin To Net: NetName=NetIC1_33 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R5-2
+Added Net: Name=NetJ4_2
+Added Member To Class: ClassName=Sheet1 Member=Component C13 3.3u
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 MCP2221A-I_ST
+Added Member To Class: ClassName=Sheet1 Member=Component J3 8-1437565-1
+Added Member To Class: ClassName=Sheet1 Member=Component J4 8-1437565-1

@@ -1,0 +1,90 @@
+Added Component: Designator=IC1(QFP50P1200X1200X120-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PIC32MK1024MCM064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pic32mk1024mcm064-ipt/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/PIC32MK-GPK-MCM-with-CAN-FD-Family-DataSheet-DS60001519E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PIC32MK1024MCM064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-2MK1024MCM064IPT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC32MK1024MCM064-I-PT?qs=W%2FMpXkg%252BdQ4dBI32NJdQMg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SW_1437566-4
+Add Component: Footprint Not Found SW_1437566-4
+Added Pin To Net: NetName=RA7 Pin=IC1-1
+Added Pin To Net: NetName=RB14 Pin=IC1-2
+Added Pin To Net: NetName=RB15 Pin=IC1-3
+Added Pin To Net: NetName=RG6 Pin=IC1-4
+Added Pin To Net: NetName=RG7 Pin=IC1-5
+Added Pin To Net: NetName=RG8 Pin=IC1-6
+Added Pin To Net: NetName=MCLR Pin=IC1-7
+Added Pin To Net: NetName=RG9 Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Pin To Net: NetName=+3v3 Pin=IC1-10
+Added Pin To Net: NetName=RA12 Pin=IC1-11
+Added Pin To Net: NetName=RA11 Pin=IC1-12
+Added Pin To Net: NetName=RA0 Pin=IC1-13
+Added Pin To Net: NetName=RA1 Pin=IC1-14
+Added Pin To Net: NetName=RB0 Pin=IC1-15
+Added Pin To Net: NetName=RB1 Pin=IC1-16
+Added Pin To Net: NetName=PGEC1 Pin=IC1-17
+Added Pin To Net: NetName=PGED1 Pin=IC1-18
+Added Pin To Net: NetName=+3v3 Pin=IC1-19
+Added Pin To Net: NetName=GND Pin=IC1-20
+Added Pin To Net: NetName=RX Pin=IC1-21
+Added Pin To Net: NetName=TX Pin=IC1-22
+Added Pin To Net: NetName=RC2 Pin=IC1-23
+Added Pin To Net: NetName=RC11 Pin=IC1-24
+Added Pin To Net: NetName=GND Pin=IC1-25
+Added Pin To Net: NetName=+3v3 Pin=IC1-26
+Added Pin To Net: NetName=RE12 Pin=IC1-27
+Added Pin To Net: NetName=RE13 Pin=IC1-28
+Added Pin To Net: NetName=RE14 Pin=IC1-29
+Added Pin To Net: NetName=RE15 Pin=IC1-30
+Added Pin To Net: NetName=RA8 Pin=IC1-31
+Added Pin To Net: NetName=RB4 Pin=IC1-32
+Added Pin To Net: NetName=NetIC1_33 Pin=IC1-33
+Added Pin To Net: NetName=NetIC1_34 Pin=IC1-34
+Added Pin To Net: NetName=+3v3 Pin=IC1-35
+Added Pin To Net: NetName=+3v3 Pin=IC1-38
+Added Pin To Net: NetName=OSCI Pin=IC1-39
+Added Pin To Net: NetName=OSCO Pin=IC1-40
+Added Pin To Net: NetName=GND Pin=IC1-41
+Added Pin To Net: NetName=RD8 Pin=IC1-42
+Added Pin To Net: NetName=RB5 Pin=IC1-43
+Added Pin To Net: NetName=RB6 Pin=IC1-44
+Added Pin To Net: NetName=RC10 Pin=IC1-45
+Added Pin To Net: NetName=RB7 Pin=IC1-46
+Added Pin To Net: NetName=RC13 Pin=IC1-47
+Added Pin To Net: NetName=RB8 Pin=IC1-48
+Added Pin To Net: NetName=RB9 Pin=IC1-49
+Added Pin To Net: NetName=RC6 Pin=IC1-50
+Added Pin To Net: NetName=RC7 Pin=IC1-51
+Added Pin To Net: NetName=RC8 Pin=IC1-52
+Added Pin To Net: NetName=RD5 Pin=IC1-53
+Added Pin To Net: NetName=RD6 Pin=IC1-54
+Added Pin To Net: NetName=RC9 Pin=IC1-55
+Added Pin To Net: NetName=GND Pin=IC1-56
+Added Pin To Net: NetName=+3v3 Pin=IC1-57
+Added Pin To Net: NetName=RF0 Pin=IC1-58
+Added Pin To Net: NetName=RF1 Pin=IC1-59
+Added Pin To Net: NetName=RB10 Pin=IC1-60
+Added Pin To Net: NetName=RB11 Pin=IC1-61
+Added Pin To Net: NetName=RB12 Pin=IC1-62
+Added Pin To Net: NetName=RB13 Pin=IC1-63
+Added Pin To Net: NetName=RA10 Pin=IC1-64
+Add Pin To Net: Unknown Pin: Pin IC2-1
+Add Pin To Net: Unknown Pin: Pin IC2-4
+Add Pin To Net: Unknown Pin: Pin IC2-5
+Add Pin To Net: Unknown Pin: Pin IC2-6
+Add Pin To Net: Unknown Pin: Pin IC2-11
+Add Pin To Net: Unknown Pin: Pin IC2-12
+Add Pin To Net: Unknown Pin: Pin IC2-13
+Add Pin To Net: Unknown Pin: Pin IC2-14
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 PIC32MK1024MCM064-I_PT
+Add Class Member: Failed to add class member : Component IC2 MCP2221A-I_ST
+Add Class Member: Failed to add class member : Component S1 1437566-4
+Add Class Member: Failed to add class member : Component S2 1437566-4

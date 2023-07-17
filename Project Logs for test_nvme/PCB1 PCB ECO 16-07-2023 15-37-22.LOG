@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=+5V Pin=R1-1
+Removed Pin From Net: NetName=NetIC2_4 Pin=R1-2
+Removed Pin From Net: NetName=NetIC1_48 Pin=R2-1
+Removed Pin From Net: NetName=NetD1_A Pin=R2-2
+Removed Pin From Net: NetName=NetC6_2 Pin=R4-1
+Removed Pin From Net: NetName=+3v3 Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=NetC6_2 Pin=R6-1
+Removed Pin From Net: NetName=MCLR Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=PGEC1 Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=PGED1 Pin=R8-2
+Change Component Footprint: Designator=R1 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R2 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R4 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R5 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R6 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R7 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R8 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R5 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R7 Old Comment=10k New Comment=1k
+Added Component: Designator=D2(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0805)
+Added Component: Designator=R10(RES_0805)
+Added Pin To Net: NetName=GND Pin=D2-C
+Added Pin To Net: NetName=NetIC2_4 Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=NetD1_A Pin=R2-1
+Added Pin To Net: NetName=NetIC1_48 Pin=R2-2
+Added Pin To Net: NetName=+3v3 Pin=R5-1
+Added Pin To Net: NetName=NetC6_2 Pin=R5-2
+Added Pin To Net: NetName=+3v3 Pin=R6-2
+Added Pin To Net: NetName=MCLR Pin=R7-1
+Added Pin To Net: NetName=NetC6_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=PGEC1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=PGED1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R6-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=S2-2
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=Sheet1 Member=Component D2 SML-LXT0805IW-TR
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R10 10k

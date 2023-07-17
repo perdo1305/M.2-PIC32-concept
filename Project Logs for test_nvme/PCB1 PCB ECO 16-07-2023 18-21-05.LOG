@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RC13 Pin=FP1-36
+Removed Pin From Net: NetName=RB7 Pin=FP1-40
+Removed Pin From Net: NetName=RC10 Pin=FP1-42
+Removed Pin From Net: NetName=RB6 Pin=FP1-46
+Removed Pin From Net: NetName=RB5 Pin=FP1-48
+Removed Pin From Net: NetName=RD8 Pin=FP1-52
+Added Pin To Net: NetName=RD8 Pin=FP1-36
+Added Pin To Net: NetName=RB5 Pin=FP1-40
+Added Pin To Net: NetName=RB6 Pin=FP1-42
+Added Pin To Net: NetName=RC10 Pin=FP1-46
+Added Pin To Net: NetName=RB7 Pin=FP1-48
+Added Pin To Net: NetName=RC13 Pin=FP1-52
