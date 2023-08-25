@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=FP1-MH
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=+3v3 Pin=J2-3
+Removed Pin From Net: NetName=PGED1 Pin=J2-4
+Removed Pin From Net: NetName=PGEC1 Pin=J2-5
+Added Pin To Net: NetName=PGEC1 Pin=J2-2
+Added Pin To Net: NetName=PGED1 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=+3v3 Pin=J2-5
+Added Pin To Net: NetName=NetIC1_16 Pin=IC1-16
+Added Pin To Net: NetName=NetIC1_16 Pin=R2-1
+Added Net: Name=NetIC1_16
+Added Pin To Net: NetName=NetIC1_42 Pin=IC1-42
+Added Pin To Net: NetName=NetIC1_42 Pin=S2-1
+Added Net: Name=NetIC1_42
+Added Pin To Net: NetName=RA4 Pin=FP1-36
+Added Pin To Net: NetName=RA4 Pin=IC1-33
+Added Net: Name=RA4
+Added Pin To Net: NetName=RB8 Pin=FP1-7
+Added Pin To Net: NetName=RB8 Pin=IC1-48
+Added Net: Name=RB8
